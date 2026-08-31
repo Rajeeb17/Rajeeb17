@@ -15,8 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year **Computer Science & Engineering** student at American International University–Bangladesh (CGPA 3.67)
-- 🔬 Currently researching **vitiligo detection via deep learning**, **mental health prediction using association rule mining**, and **human-AI collaboration attribution**
+- 🎓 Final-year **Computer Science & Engineering** student at American International University–Bangladesh 
 - 🌱 Sharpening skills in **Python, Deep Learning, and Generative AI**
 - 💼 Completed job simulations with **JPMorgan Chase & Co.** (Quantitative Research) and **Electronic Arts** (Product Management)
 - 🩸 Active volunteer with **Badhon Blood Donation Organization**
