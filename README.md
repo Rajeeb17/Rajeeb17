@@ -60,13 +60,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect crop diseases and connect farmers to solutions | JavaScript, Deep Learning |
-| **Fake News Detection(https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost framework for automated misinformation detection | Python, Scikit-learn, XGBoost |
-| **Smart Classroom Automation** | Touchless classroom control via face recognition login + hand-gesture device control, bridged to Arduino UNO | MediaPipe, Python, Arduino |
-| **Hotel Reservation System** | Full booking platform with secure auth, live reservations, and Selenium-driven automated QA | HTML, CSS, JS, PHP, MySQL, Selenium |
-| **Blood Bank Management System** | Optimized SQL triggers/stored procedures for efficient donor matching | Oracle 10g, MySQL |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect crop diseases and connect farmers to solutionsDeep Learning |
+| **[Fake News Detection](https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoostd misinformation detection. | Python, Scikit-learn, XGBoost |
+| **[Smart Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face-recognition login and hand-gesture device control, integrated, Python, Arduino |
+| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication, real-time reservations, and Selenium HTML, CSS, JavaScript, PHP, MySQL, Selenium |
 
 > 📌 Pinned repos above are kept up to date — check each repo's README for setup instructions and demos.
 
