@@ -59,11 +59,12 @@
 ---
 
 ### 🚀 Featured Projects
-| Project | What it does | Stack |
-|----------|-------------|--------|
-| **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect crop diseases and connect farmers to solutions | JavaScript, Deep Learning |
-etection](https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost framework for automated misinformation detection | Python, Scikit-lert Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face recognition login and hand-gesture device control, integrated Python, Arduino |
-| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full booking platform with secure authentication, live reservations, and Selenium-driven automated QA | HTML, CSS, JavaScript*Blood Bank Management System** | Optimized SQL triggers and stored procedures for efficient donor matching | Oracle 10g, MySQL |
+| Project | Description | Technologies |
+|----------|-------------|-------------|
+| **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect cropnnect farmers to solutions. | React, Node.js, TensorFlow, MySQL |
+| **[Fake News Detection](https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost n. | Python, TensorFlow, XGBoost |
+| **[Smart Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face recognition and hand gesture, Arduino |
+| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication and real-time reservations.
 ---
 
 ### 🔬 Research
