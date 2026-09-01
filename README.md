@@ -2,13 +2,13 @@
 <h3 align="center">AI/ML Enthusiast · Full-Stack Developer · Final-Year CSE Student</h3>
 
 <p align="center">
-  I build practical AI and web systems — from a hybrid CNN-XGBoost model that catches fake news, to a gesture-controlled smart classroom, to an AI-powered crop disease detector farmers can actually use.
+  I build practical AI and web systems — from a hybrid CNN-XGBoost model that catches fake news, to a gesture-controlled smart classroom, to an AI-powered crop disease detector farmers can actually [...]
 </p>
 
 <p align="center">
   <a href="https://rajeeb17.github.io/Rajeeb_Pramanik/#top"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:rajeebpramanik2901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rajeeb-pramanik-7975a01ab/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajeeb-pramanik-7975a01ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -63,8 +63,8 @@
 |----------|-------------|-------------|
 | **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect cropnnect farmers to solutions. | React, Node.js, TensorFlow, MySQL |
 | **[Fake News Detection](https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost n. | Python, TensorFlow, XGBoost |
-| **[Smart Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face recognition and hand gesture, Arduino |MediaPipe, Python, Arduino|
-| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication and real-time reservations.|HTML, CSS, JS, PHP, MySQL, Selenium|
+| **[Smart Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face recognition and hand gesture, Arduino |Medi[...]
+| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication and real-time reservations.|HTML, CSS, JS[...]
 ---
 
 ### 🔬 Research
