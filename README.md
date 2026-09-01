@@ -64,7 +64,7 @@
 | **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect cropnnect farmers to solutions. | React, Node.js, TensorFlow, MySQL |
 | **[Fake News Detection](https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost n. | Python, TensorFlow, XGBoost |
 | **[Smart Classroom Automation](https://github.com/Rajeeb17/CVPR/tree/main/SMART%20CLASSROM%20AUTOMATION%20SYSTEM)** | Touchless classroom control via face recognition and hand gesture, Arduino |Mediapipe,opencv,python[...]
-| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication and real-time reservations.|HTML, CSS, JS[...]
+| **[Hotel Reservation System](https://github.com/Rajeeb17/Webtech-/tree/main/Hotel_reservation)** | Full-featured booking platform with secure authentication and real-time reservations.|HTML, CSS, JS,Php,MYsql[...]
 ---
 
 ### 🔬 Research
