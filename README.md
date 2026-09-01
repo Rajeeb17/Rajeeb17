@@ -63,7 +63,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[KrishiBondhu](https://github.com/Rajeeb17/KrishiBondhu)** | Full-stack AI ecosystem using deep learning to detect crop diseases and connect farmers to solutions | JavaScript, Deep Learning |
-| **Fake News Detection** | Hybrid CNN-XGBoost framework for automated misinformation detection | Python, Scikit-learn, XGBoost |
+| **Fake News Detection(https://github.com/Rajeeb17/machine-learning-projects/tree/main/Fake%20news%20detection)** | Hybrid CNN-XGBoost framework for automated misinformation detection | Python, Scikit-learn, XGBoost |
 | **Smart Classroom Automation** | Touchless classroom control via face recognition login + hand-gesture device control, bridged to Arduino UNO | MediaPipe, Python, Arduino |
 | **Hotel Reservation System** | Full booking platform with secure auth, live reservations, and Selenium-driven automated QA | HTML, CSS, JS, PHP, MySQL, Selenium |
 | **Blood Bank Management System** | Optimized SQL triggers/stored procedures for efficient donor matching | Oracle 10g, MySQL |
