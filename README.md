@@ -18,7 +18,7 @@
 - 🎓 Final-year **Computer Science & Engineering** student at American International University–Bangladesh 
 - 🌱 Sharpening skills in **Python, Deep Learning, and Generative AI**
 - 💼 Completed job simulations with **JPMorgan Chase & Co.** (Quantitative Research) and **Electronic Arts** (Product Management)
-- 🩸 Active volunteer with **Badhon Blood Donation Organization**
+
 
 ---
 
