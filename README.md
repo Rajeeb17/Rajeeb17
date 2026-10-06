@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajeeb Pramanik 👋</h1>
-<h3 align="center">AI/ML Enthusiast · Full-Stack Developer · Final-Year CSE Student</h3>
+<h3 align="center">AI/ML Enthusiast · Full-Stack Developer ·  CSE Student</h3>
 
 <p align="center">
   I build practical AI and web systems — from a hybrid CNN-XGBoost model that catches fake news, to a gesture-controlled smart classroom, to an AI-powered crop disease detector farmers can actually [...]
